@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-17 08:46:19,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-10-17 22:07:59,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -20,7 +20,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
@@ -28,7 +27,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
-普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
@@ -66,7 +64,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
-营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 
 ☘️陕西频道,#genre#
 陕西公共,http://ls.qingting.fm/live/1222.m3u8
@@ -74,6 +71,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️福建频道,#genre#
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
+厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 ☘️海南频道,#genre#
